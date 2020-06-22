@@ -1,13 +1,12 @@
 ---
-title: Run-Backup
+title: Stash Run-Backup
 menu:
   docs_{{ .version }}:
     identifier: stash-run-backup
-    name: Run-Backup
-    parent: operator
-product_name: stash
-section_menu_id: reference
+    name: Stash Run-Backup
+    parent: reference-operator
 menu_name: docs_{{ .version }}
+section_menu_id: reference
 ---
 ## stash run-backup
 

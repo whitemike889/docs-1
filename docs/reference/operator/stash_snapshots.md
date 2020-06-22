@@ -1,13 +1,12 @@
 ---
-title: Snapshots
+title: Stash Snapshots
 menu:
   docs_{{ .version }}:
     identifier: stash-snapshots
-    name: Snapshots
-    parent: operator
-product_name: stash
-section_menu_id: reference
+    name: Stash Snapshots
+    parent: reference-operator
 menu_name: docs_{{ .version }}
+section_menu_id: reference
 ---
 ## stash snapshots
 

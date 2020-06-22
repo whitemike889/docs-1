@@ -1,13 +1,12 @@
 ---
-title: Restore-Vs
+title: Stash Restore-Vs
 menu:
   docs_{{ .version }}:
     identifier: stash-restore-vs
-    name: Restore-Vs
-    parent: operator
-product_name: stash
-section_menu_id: reference
+    name: Stash Restore-Vs
+    parent: reference-operator
 menu_name: docs_{{ .version }}
+section_menu_id: reference
 ---
 ## stash restore-vs
 
