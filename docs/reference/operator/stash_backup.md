@@ -1,9 +1,9 @@
 ---
-title: Stash Backup
+title: Backup
 menu:
   docs_{{ .version }}:
     identifier: stash-backup
-    name: Stash Backup
+    name: Backup
     parent: reference-operator
 menu_name: docs_{{ .version }}
 section_menu_id: reference

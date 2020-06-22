@@ -1,9 +1,9 @@
 ---
-title: Stash Version
+title: Version
 menu:
   docs_{{ .version }}:
     identifier: stash-version
-    name: Stash Version
+    name: Version
     parent: reference-operator
 menu_name: docs_{{ .version }}
 section_menu_id: reference

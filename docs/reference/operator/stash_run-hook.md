@@ -1,9 +1,9 @@
 ---
-title: Stash Run-Hook
+title: Run-Hook
 menu:
   docs_{{ .version }}:
     identifier: stash-run-hook
-    name: Stash Run-Hook
+    name: Run-Hook
     parent: reference-operator
 menu_name: docs_{{ .version }}
 section_menu_id: reference

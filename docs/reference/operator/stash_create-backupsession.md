@@ -1,9 +1,9 @@
 ---
-title: Stash Create-Backupsession
+title: Create-Backupsession
 menu:
   docs_{{ .version }}:
     identifier: stash-create-backupsession
-    name: Stash Create-Backupsession
+    name: Create-Backupsession
     parent: reference-operator
 menu_name: docs_{{ .version }}
 section_menu_id: reference

@@ -1,9 +1,9 @@
 ---
-title: Stash Scaledown
+title: Scaledown
 menu:
   docs_{{ .version }}:
     identifier: stash-scaledown
-    name: Stash Scaledown
+    name: Scaledown
     parent: reference-operator
 menu_name: docs_{{ .version }}
 section_menu_id: reference

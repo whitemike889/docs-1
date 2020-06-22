@@ -1,9 +1,9 @@
 ---
-title: Stash Create-Vs
+title: Create-Vs
 menu:
   docs_{{ .version }}:
     identifier: stash-create-vs
-    name: Stash Create-Vs
+    name: Create-Vs
     parent: reference-operator
 menu_name: docs_{{ .version }}
 section_menu_id: reference

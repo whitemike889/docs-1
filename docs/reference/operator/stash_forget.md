@@ -1,9 +1,9 @@
 ---
-title: Stash Forget
+title: Forget
 menu:
   docs_{{ .version }}:
     identifier: stash-forget
-    name: Stash Forget
+    name: Forget
     parent: reference-operator
 menu_name: docs_{{ .version }}
 section_menu_id: reference

@@ -1,9 +1,9 @@
 ---
-title: Stash Backup-Pvc
+title: Backup-Pvc
 menu:
   docs_{{ .version }}:
     identifier: stash-backup-pvc
-    name: Stash Backup-Pvc
+    name: Backup-Pvc
     parent: reference-operator
 menu_name: docs_{{ .version }}
 section_menu_id: reference

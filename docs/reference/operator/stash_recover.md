@@ -1,9 +1,9 @@
 ---
-title: Stash Recover
+title: Recover
 menu:
   docs_{{ .version }}:
     identifier: stash-recover
-    name: Stash Recover
+    name: Recover
     parent: reference-operator
 menu_name: docs_{{ .version }}
 section_menu_id: reference
