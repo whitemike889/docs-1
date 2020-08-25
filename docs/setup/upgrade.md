@@ -71,7 +71,7 @@ Follow the below instructions to re-install Stash:
 
 ## Upgrading between patch versions
 
-If you are upgrading Stash to a patch release, please reapply the [installation instructions](/docs/{{ .version }}/setup/install). That will upgrade the operator pod to the new version and fix any RBAC issues.
+If you are upgrading Stash to a patch release, please reapply the [installation instructions](/docs/setup.md). That will upgrade the operator pod to the new version and fix any RBAC issues.
 
 ## Upgrading from 0.9.x to v2020.x.x
 
